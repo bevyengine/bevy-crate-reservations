@@ -9,3 +9,11 @@ If you are working on a Bevy-related crate and would like one of these names, pl
 If you are planning on building a Bevy crate that you would like to be "official" in the future, but you haven't started yet, reach out to us (via the issue tracker or on Discord) and we will claim the name.
 
 I'll go on the record and say that I really think crates.io should support namespacing. This is a real problem and the solution in this repo is imperfect and dirty.
+
+## Reserving new crates
+
+1. Add crate names (without the bevy_ prefix) to the "crates" array in publish.sh
+2. Run publish.sh
+3. commit changes to the "reserved_crates" file.
+
+### Please use this responsibly and only with a Bevy Engine organization account.
