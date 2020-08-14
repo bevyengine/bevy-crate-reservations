@@ -34,3 +34,8 @@ bevy_test
 bevy_web
 bevy_websocket
 bevy_xbox
+bevy_ios
+bevy_jobs
+bevy_kernel
+bevy_library
+bevy_lighting
