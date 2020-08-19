@@ -1,3 +1,4 @@
+
 bevy_ai
 bevy_android
 bevy_animation
@@ -54,6 +55,7 @@ bevy_tools
 bevy_util
 bevy_vfx
 bevy_visibility
+bevy_voxel
 bevy_web
 bevy_websocket
 bevy_xbox
