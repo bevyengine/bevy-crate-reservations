@@ -1,4 +1,3 @@
-
 bevy_ai
 bevy_android
 bevy_animation
@@ -43,6 +42,7 @@ bevy_raytracing
 bevy_script
 bevy_scripting
 bevy_sdl2
+bevy_shapes
 bevy_skeleton
 bevy_streaming
 bevy_switch
