@@ -36,6 +36,7 @@ bevy_particles
 bevy_pathing
 bevy_physics
 bevy_physx
+bevy_picking
 bevy_playstation
 bevy_prefab
 bevy_raytracing
