@@ -16,6 +16,7 @@ bevy_editor
 bevy_egui
 bevy_event
 bevy_executor
+bevy_extra
 bevy_game
 bevy_ik
 bevy_imgui
@@ -61,3 +62,5 @@ bevy_voxel
 bevy_web
 bevy_websocket
 bevy_xbox
+bevy_extra
+bevy_picking
