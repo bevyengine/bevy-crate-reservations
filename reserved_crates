@@ -18,6 +18,7 @@ bevy_event
 bevy_executor
 bevy_extra
 bevy_game
+bevy_gpu
 bevy_ik
 bevy_imgui
 bevy_ios
@@ -42,11 +43,13 @@ bevy_picking
 bevy_playstation
 bevy_prefab
 bevy_raytracing
+bevy_rustgpu
 bevy_script
 bevy_scripting
 bevy_sdl2
 bevy_shapes
 bevy_skeleton
+bevy_spirv
 bevy_streaming
 bevy_switch
 bevy_system
