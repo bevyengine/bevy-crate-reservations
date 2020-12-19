@@ -17,6 +17,7 @@ bevy_egui
 bevy_event
 bevy_executor
 bevy_extra
+bevy_extra
 bevy_game
 bevy_gpu
 bevy_ik
@@ -39,6 +40,7 @@ bevy_particles
 bevy_pathing
 bevy_physics
 bevy_physx
+bevy_picking
 bevy_picking
 bevy_playstation
 bevy_prefab
@@ -64,6 +66,6 @@ bevy_visibility
 bevy_voxel
 bevy_web
 bevy_websocket
+bevy_widget
+bevy_widgets
 bevy_xbox
-bevy_extra
-bevy_picking
