@@ -17,7 +17,6 @@ bevy_egui
 bevy_event
 bevy_executor
 bevy_extra
-bevy_extra
 bevy_game
 bevy_gpu
 bevy_ik
@@ -40,7 +39,6 @@ bevy_particles
 bevy_pathing
 bevy_physics
 bevy_physx
-bevy_picking
 bevy_picking
 bevy_playstation
 bevy_prefab
