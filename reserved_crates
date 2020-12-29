@@ -17,7 +17,6 @@ bevy_egui
 bevy_event
 bevy_executor
 bevy_extra
-bevy_extra
 bevy_game
 bevy_gpu
 bevy_ik
@@ -64,8 +63,10 @@ bevy_util
 bevy_vfx
 bevy_visibility
 bevy_voxel
+bevy_vr
 bevy_web
 bevy_websocket
 bevy_widget
 bevy_widgets
 bevy_xbox
+bevy_xr
