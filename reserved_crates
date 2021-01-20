@@ -43,6 +43,7 @@ bevy_picking
 bevy_picking
 bevy_playstation
 bevy_prefab
+bevy_raycasting
 bevy_raytracing
 bevy_rustgpu
 bevy_script
