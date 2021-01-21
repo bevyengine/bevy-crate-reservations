@@ -1,4 +1,3 @@
-
 bevy_ai
 bevy_android
 bevy_animation
@@ -40,9 +39,9 @@ bevy_pathing
 bevy_physics
 bevy_physx
 bevy_picking
-bevy_picking
 bevy_playstation
 bevy_prefab
+bevy_raycast
 bevy_raytracing
 bevy_rustgpu
 bevy_script

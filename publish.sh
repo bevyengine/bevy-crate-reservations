@@ -2,6 +2,9 @@
 crates=(
 )
 
+rm -rf crates
+mkdir crates
+
 for crate in "${crates[@]}"
 do
   cp -r template crates/bevy_$crate
