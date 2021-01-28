@@ -41,6 +41,7 @@ bevy_physx
 bevy_picking
 bevy_playstation
 bevy_prefab
+bevy_project
 bevy_raycast
 bevy_raytracing
 bevy_rustgpu
@@ -50,6 +51,7 @@ bevy_sdl2
 bevy_shapes
 bevy_skeleton
 bevy_spirv
+bevy_store
 bevy_streaming
 bevy_switch
 bevy_system
@@ -68,4 +70,4 @@ bevy_websocket
 bevy_widget
 bevy_widgets
 bevy_xbox
-bevy_xr
+bevy_xrbevy_marketplace
