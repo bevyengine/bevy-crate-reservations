@@ -29,6 +29,7 @@ bevy_library
 bevy_lighting
 bevy_log
 bevy_lua
+bevy_marketplace
 bevy_navmesh
 bevy_net
 bevy_node_graph
@@ -70,4 +71,4 @@ bevy_websocket
 bevy_widget
 bevy_widgets
 bevy_xbox
-bevy_xrbevy_marketplace
+bevy_xr
