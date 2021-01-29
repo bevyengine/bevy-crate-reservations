@@ -6,6 +6,7 @@ bevy_base
 bevy_box2d
 bevy_bullet
 bevy_camera
+bevy_cli
 bevy_collision
 bevy_controller
 bevy_csharp
