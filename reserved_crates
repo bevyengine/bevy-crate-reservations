@@ -3,6 +3,7 @@ bevy_android
 bevy_animation
 bevy_async
 bevy_base
+bevy_bounds
 bevy_box2d
 bevy_bullet
 bevy_camera
