@@ -18,6 +18,7 @@ bevy_event
 bevy_executor
 bevy_extra
 bevy_game
+bevy_geometry
 bevy_gpu
 bevy_ik
 bevy_imgui
