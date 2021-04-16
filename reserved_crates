@@ -51,6 +51,7 @@ bevy_rustgpu
 bevy_script
 bevy_scripting
 bevy_sdl2
+bevy_shape
 bevy_shapes
 bevy_skeleton
 bevy_spirv
