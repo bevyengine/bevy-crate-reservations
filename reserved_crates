@@ -20,6 +20,8 @@ bevy_executor
 bevy_extra
 bevy_game
 bevy_geometry
+bevy_gizmo
+bevy_gizmos
 bevy_gpu
 bevy_ik
 bevy_imgui
