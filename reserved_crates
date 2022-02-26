@@ -1,3 +1,4 @@
+
 bevy_ai
 bevy_android
 bevy_animation
@@ -58,6 +59,7 @@ bevy_shape
 bevy_shapes
 bevy_skeleton
 bevy_spirv
+bevy_splash
 bevy_store
 bevy_streaming
 bevy_switch
