@@ -1,4 +1,5 @@
 
+
 bevy_ai
 bevy_android
 bevy_animation
@@ -23,6 +24,7 @@ bevy_geometry
 bevy_gizmo
 bevy_gizmos
 bevy_gpu
+bevy_hierarchy
 bevy_ik
 bevy_imgui
 bevy_ios
