@@ -70,6 +70,7 @@ bevy_test
 bevy_thread
 bevy_tile
 bevy_tiled
+bevy_time
 bevy_tools
 bevy_util
 bevy_vfx
