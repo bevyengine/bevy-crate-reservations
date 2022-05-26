@@ -18,6 +18,7 @@ bevy_editor
 bevy_event
 bevy_executor
 bevy_extra
+bevy_fmod
 bevy_game
 bevy_geometry
 bevy_gizmo
@@ -82,5 +83,6 @@ bevy_web
 bevy_websocket
 bevy_widget
 bevy_widgets
+bevy_wwise
 bevy_xbox
 bevy_xr
