@@ -12,6 +12,7 @@ bevy_collision
 bevy_controller
 bevy_csharp
 bevy_curve
+bevy_debug
 bevy_demo
 bevy_editor
 bevy_event
