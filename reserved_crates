@@ -51,6 +51,7 @@ bevy_picking
 bevy_playstation
 bevy_prefab
 bevy_project
+bevy_ptr
 bevy_python
 bevy_raycast
 bevy_raytracing
