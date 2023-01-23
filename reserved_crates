@@ -24,6 +24,7 @@ bevy_geometry
 bevy_gizmo
 bevy_gizmos
 bevy_gpu
+bevy_graph
 bevy_hierarchy
 bevy_ik
 bevy_imgui
