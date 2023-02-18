@@ -1,6 +1,6 @@
 # Bevy Crate Reservations
 
-Due to the wild-west nature of crates.io, we can't own a "bevy" namespace that we fully control. This means that certain crate names that we have a high likelihood of using in the future could be claimed by malicious or uniformed actors.
+Due to the wild-west nature of crates.io, we can't own a "bevy" namespace that we fully control. This means that certain crate names that we have a high likelihood of using in the future could be claimed by malicious or uninformed actors.
 
 The crates in this repo have no functionality yet, they are just so we can stake our claim to the "high value" crate names.
 
