@@ -1,3 +1,4 @@
+bevy_a11y
 bevy_ai
 bevy_android
 bevy_animation
@@ -27,6 +28,7 @@ bevy_gpu
 bevy_graph
 bevy_hierarchy
 bevy_ik
+bevy_i18n
 bevy_imgui
 bevy_ios
 bevy_jobs
