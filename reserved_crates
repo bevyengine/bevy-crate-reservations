@@ -18,6 +18,7 @@ bevy_demo
 bevy_editor
 bevy_event
 bevy_executor
+bevy_extension
 bevy_extra
 bevy_fmod
 bevy_game
@@ -27,8 +28,9 @@ bevy_gizmos
 bevy_gpu
 bevy_graph
 bevy_hierarchy
-bevy_ik
+bevy_hot_reload
 bevy_i18n
+bevy_ik
 bevy_imgui
 bevy_ios
 bevy_jobs
@@ -58,6 +60,7 @@ bevy_ptr
 bevy_python
 bevy_raycast
 bevy_raytracing
+bevy_reload
 bevy_rustgpu
 bevy_script
 bevy_scripting
