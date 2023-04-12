@@ -68,6 +68,7 @@ bevy_shapes
 bevy_skeleton
 bevy_spirv
 bevy_splash
+bevy_states
 bevy_store
 bevy_streaming
 bevy_switch
