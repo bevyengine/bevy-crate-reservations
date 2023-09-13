@@ -53,6 +53,7 @@ bevy_pathing
 bevy_physics
 bevy_physx
 bevy_picking
+bevy_platform
 bevy_playstation
 bevy_prefab
 bevy_project
