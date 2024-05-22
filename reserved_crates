@@ -63,6 +63,7 @@ bevy_python
 bevy_raycast
 bevy_raytracing
 bevy_reload
+bevy_render_graph
 bevy_rustgpu
 bevy_script
 bevy_scripting
