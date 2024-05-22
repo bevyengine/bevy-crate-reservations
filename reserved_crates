@@ -70,6 +70,7 @@ bevy_sdf
 bevy_sdl2
 bevy_shape
 bevy_shapes
+bevy_signals
 bevy_skeleton
 bevy_spirv
 bevy_splash
