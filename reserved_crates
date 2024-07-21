@@ -57,6 +57,8 @@ bevy_picking
 bevy_platform
 bevy_playstation
 bevy_prefab
+bevy_preference
+bevy_preferences
 bevy_project
 bevy_ptr
 bevy_python
