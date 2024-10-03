@@ -104,3 +104,4 @@ cargo_bevy
 bevy_image
 bevy_post_processing
 bevy_anti_aliasing
+bevy_mesh
