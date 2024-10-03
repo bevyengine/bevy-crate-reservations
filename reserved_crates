@@ -101,3 +101,6 @@ bevy_wwise
 bevy_xbox
 bevy_xr
 cargo_bevy
+bevy_image
+bevy_post_processing
+bevy_anti_aliasing
