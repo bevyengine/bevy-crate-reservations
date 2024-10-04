@@ -1,4 +1,3 @@
-
 bevy_a11y
 bevy_actions
 bevy_ai
@@ -45,10 +44,12 @@ bevy_library
 bevy_lighting
 bevy_lint
 bevy_log
+bevy_load
 bevy_lua
 bevy_marketplace
 bevy_mesh
 bevy_navmesh
+bevy_nintendo
 bevy_net
 bevy_node_graph
 bevy_nodes
