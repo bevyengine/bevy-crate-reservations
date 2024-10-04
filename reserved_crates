@@ -1,8 +1,10 @@
+
 bevy_a11y
 bevy_actions
 bevy_ai
 bevy_android
 bevy_animation
+bevy_anti_aliasing
 bevy_async
 bevy_base
 bevy_bounds
@@ -32,6 +34,7 @@ bevy_hierarchy
 bevy_hot_reload
 bevy_i18n
 bevy_ik
+bevy_image
 bevy_imgui
 bevy_ios
 bevy_jobs
@@ -44,6 +47,7 @@ bevy_lint
 bevy_log
 bevy_lua
 bevy_marketplace
+bevy_mesh
 bevy_navmesh
 bevy_net
 bevy_node_graph
@@ -56,6 +60,7 @@ bevy_physx
 bevy_picking
 bevy_platform
 bevy_playstation
+bevy_post_processing
 bevy_prefab
 bevy_preference
 bevy_preferences
@@ -100,4 +105,3 @@ bevy_widgets
 bevy_wwise
 bevy_xbox
 bevy_xr
-cargo_bevy
