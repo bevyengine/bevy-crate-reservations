@@ -88,6 +88,7 @@ bevy_store
 bevy_streaming
 bevy_switch
 bevy_system
+bevy_steam
 bevy_test
 bevy_thread
 bevy_tile
