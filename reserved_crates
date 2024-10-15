@@ -1,4 +1,3 @@
-
 bevy_a11y
 bevy_actions
 bevy_ai
@@ -44,12 +43,14 @@ bevy_kernel
 bevy_library
 bevy_lighting
 bevy_lint
+bevy_load
 bevy_log
 bevy_lua
 bevy_marketplace
 bevy_mesh
 bevy_navmesh
 bevy_net
+bevy_nintendo
 bevy_node_graph
 bevy_nodes
 bevy_nphysics
@@ -83,6 +84,7 @@ bevy_skeleton
 bevy_spirv
 bevy_splash
 bevy_states
+bevy_steam
 bevy_store
 bevy_streaming
 bevy_switch
