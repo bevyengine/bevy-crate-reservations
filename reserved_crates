@@ -1,8 +1,6 @@
-bevy_a11y
 bevy_actions
 bevy_ai
 bevy_android
-bevy_animation
 bevy_anti_aliasing
 bevy_async
 bevy_base
@@ -26,10 +24,8 @@ bevy_fmod
 bevy_game
 bevy_geometry
 bevy_gizmo
-bevy_gizmos
 bevy_gpu
 bevy_graph
-bevy_hierarchy
 bevy_hot_reload
 bevy_i18n
 bevy_ik
@@ -44,7 +40,6 @@ bevy_library
 bevy_lighting
 bevy_lint
 bevy_load
-bevy_log
 bevy_lua
 bevy_marketplace
 bevy_mesh
