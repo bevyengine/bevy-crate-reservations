@@ -55,6 +55,7 @@ bevy_physics
 bevy_physx
 bevy_picking
 bevy_platform
+bevy_platform_support
 bevy_playstation
 bevy_post_processing
 bevy_prefab
