@@ -6,6 +6,7 @@ bevy_async
 bevy_base
 bevy_bounds
 bevy_box2d
+bevy_bsn
 bevy_bullet
 bevy_camera
 bevy_cli
