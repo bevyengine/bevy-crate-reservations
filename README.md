@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Please use this responsibly and only with a Bevy Engine organization account.
+
 # Bevy Crate Reservations
 
 Due to the wild-west nature of crates.io, we can't own a "bevy" namespace that we fully control. This means that certain crate names that we have a high likelihood of using in the future could be claimed by malicious or uninformed actors.
@@ -15,5 +18,3 @@ I'll go on the record and say that I really think crates.io should support names
 1. Add crate names (without the bevy_ prefix) to the "crates" array in publish.sh
 2. Run publish.sh
 3. commit changes to the "reserved_crates" file.
-
-### Please use this responsibly and only with a Bevy Engine organization account.
