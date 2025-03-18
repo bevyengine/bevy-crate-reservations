@@ -15,7 +15,7 @@ cd crates
 for crate in *
 do
   echo "Publishing ${crate}"
-  (cd $crate; cargo publish --allow-dirty)
+  (cd $crate; cargo publish --allow-dirty; cargo owner --add github:bevyengine:publish)
   echo $crate >> ../reserved_crates
   sleep 15
 done
