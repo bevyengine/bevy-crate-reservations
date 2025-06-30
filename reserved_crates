@@ -30,7 +30,6 @@ bevy_graph
 bevy_hot_reload
 bevy_i18n
 bevy_ik
-bevy_image
 bevy_imgui
 bevy_ios
 bevy_jobs
@@ -43,7 +42,6 @@ bevy_lint
 bevy_load
 bevy_lua
 bevy_marketplace
-bevy_mesh
 bevy_navmesh
 bevy_net
 bevy_nintendo
@@ -54,8 +52,6 @@ bevy_particles
 bevy_pathing
 bevy_physics
 bevy_physx
-bevy_picking
-bevy_platform
 bevy_platform_support
 bevy_playstation
 bevy_post_processing
@@ -63,7 +59,6 @@ bevy_prefab
 bevy_preference
 bevy_preferences
 bevy_project
-bevy_ptr
 bevy_python
 bevy_raycast
 bevy_raytracing
@@ -90,7 +85,6 @@ bevy_test
 bevy_thread
 bevy_tile
 bevy_tiled
-bevy_time
 bevy_tools
 bevy_util
 bevy_vfx
