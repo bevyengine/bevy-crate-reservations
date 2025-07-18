@@ -13,6 +13,7 @@ bevy_cli
 bevy_collision
 bevy_controller
 bevy_csharp
+bevy_cursor_icon
 bevy_curve
 bevy_debug
 bevy_demo
@@ -54,6 +55,7 @@ bevy_physics
 bevy_physx
 bevy_platform_support
 bevy_playstation
+bevy_pointer
 bevy_post_processing
 bevy_prefab
 bevy_preference
