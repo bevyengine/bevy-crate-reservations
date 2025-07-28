@@ -1,14 +1,14 @@
 bevy_actions
 bevy_ai
 bevy_android
-bevy_anti_aliasing
 bevy_async
 bevy_base
 bevy_bounds
 bevy_box2d
+bevy_brdf
+bevy_bsdf
 bevy_bsn
 bevy_bullet
-bevy_camera
 bevy_cli
 bevy_collision
 bevy_controller
@@ -42,6 +42,7 @@ bevy_lint
 bevy_load
 bevy_lua
 bevy_marketplace
+bevy_material
 bevy_navmesh
 bevy_net
 bevy_nintendo
@@ -52,7 +53,6 @@ bevy_particles
 bevy_pathing
 bevy_physics
 bevy_physx
-bevy_platform_support
 bevy_playstation
 bevy_post_processing
 bevy_prefab
@@ -69,6 +69,7 @@ bevy_script
 bevy_scripting
 bevy_sdf
 bevy_sdl2
+bevy_shader
 bevy_shape
 bevy_shapes
 bevy_signals
