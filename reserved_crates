@@ -9,6 +9,8 @@ bevy_brdf
 bevy_bsdf
 bevy_bsn
 bevy_bullet
+bevy_camera
+bevy_camera_controller
 bevy_cli
 bevy_collision
 bevy_controller
@@ -25,6 +27,7 @@ bevy_fmod
 bevy_game
 bevy_geometry
 bevy_gizmo
+bevy_gizmos_render
 bevy_gpu
 bevy_graph
 bevy_hot_reload
