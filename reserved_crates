@@ -57,6 +57,7 @@ bevy_nphysics
 bevy_particles
 bevy_pathing
 bevy_physics
+bevy_physics_types
 bevy_physx
 bevy_playstation
 bevy_post_processing
