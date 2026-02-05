@@ -48,6 +48,8 @@ bevy_load
 bevy_lua
 bevy_marketplace
 bevy_material
+bevy_migrate
+bevy_migration
 bevy_navmesh
 bevy_net
 bevy_nintendo
