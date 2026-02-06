@@ -24,6 +24,7 @@ bevy_event
 bevy_executor
 bevy_extension
 bevy_extra
+bevy_extract
 bevy_fmod
 bevy_framework
 bevy_game
