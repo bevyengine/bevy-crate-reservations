@@ -44,6 +44,7 @@ bevy_js
 bevy_kernel
 bevy_library
 bevy_lighting
+bevy_limits
 bevy_lint
 bevy_load
 bevy_lua
@@ -98,6 +99,7 @@ bevy_tiled
 bevy_tools
 bevy_util
 bevy_vfx
+bevy_video
 bevy_visibility
 bevy_voxel
 bevy_vr
