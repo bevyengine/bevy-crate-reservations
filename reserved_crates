@@ -3,6 +3,7 @@ bevy_actions
 bevy_ai
 bevy_android
 bevy_async
+bevy_audio_graph
 bevy_base
 bevy_bounds
 bevy_box2d
@@ -25,6 +26,7 @@ bevy_executor
 bevy_extension
 bevy_extra
 bevy_extract
+bevy_firewheel
 bevy_fmod
 bevy_framework
 bevy_game
