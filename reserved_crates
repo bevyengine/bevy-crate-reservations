@@ -45,6 +45,7 @@ bevy_joystick
 bevy_js
 bevy_kernel
 bevy_library
+bevy_light_render
 bevy_lighting
 bevy_limits
 bevy_lint
@@ -52,6 +53,7 @@ bevy_load
 bevy_lua
 bevy_marketplace
 bevy_material
+bevy_material_render
 bevy_migrate
 bevy_migration
 bevy_navmesh

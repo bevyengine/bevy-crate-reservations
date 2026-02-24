@@ -1,5 +1,7 @@
 # add crates here (they will automatically have "bevy_" prefixed). ex: "hello" will become the "bevy_hello" crate
 crates=(
+  light_render
+  material_render
 )
 
 rm -rf crates
