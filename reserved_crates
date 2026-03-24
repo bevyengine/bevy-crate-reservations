@@ -20,6 +20,7 @@ bevy_csharp
 bevy_curve
 bevy_debug
 bevy_demo
+bevy_ecs_serialization
 bevy_editor
 bevy_event
 bevy_executor
