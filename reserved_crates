@@ -2,6 +2,7 @@ bevi
 bevy_actions
 bevy_ai
 bevy_android
+bevy_annotations
 bevy_async
 bevy_audio_graph
 bevy_base
@@ -115,3 +116,4 @@ bevy_widgets
 bevy_wwise
 bevy_xbox
 bevy_xr
+bevy_annotations
